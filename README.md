@@ -1,5 +1,6 @@
 # Tile-Vania-Platformer-game_Unity
 
+<p>Link play: <a href="https://halac123b.github.io/Tile-Vania-Platformer-game_Unity/">Github page</a></p>
 <p>A simple platformer where I learned lots of things with Unity</p>
 <ul>
 <li>Create tilemap with Rule Tiles</li>
