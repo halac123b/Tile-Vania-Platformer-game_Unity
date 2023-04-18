@@ -10,6 +10,8 @@
 <li>Singleton pattern with Game Session</li>
 </ul>
 
-<img src="capture.gif">
+<img src="capture1.gif">
+<img src="capture2.gif">
+<img src="capture3.gif">
 
 <!-- Thanks to Udemy course of GameDev.tv -->
